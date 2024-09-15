@@ -1,5 +1,5 @@
 package main
-
+// prometheus exporter客户端
 import (
 	"log"
 	"math/rand"
